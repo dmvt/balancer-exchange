@@ -339,6 +339,13 @@
                 "decimals": 18,
                 "iconAddress": "0x985dd3D42De1e256d09e1c10F112bCCB8015AD41",
                 "precision": 2
+            },
+            {
+                "symbol": "USD++",
+                "address": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+                "decimals": 18,
+                "iconAddress": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+                "precision": 2
             }
         ]
     }
